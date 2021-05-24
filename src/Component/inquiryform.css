@@ -1,0 +1,44 @@
+
+h1{
+    color: black;
+    text-align: center;
+    text-size-adjust: 100;
+    background-color:#9DF9EF;
+    box-shadow: 0 30px 60px 0 rgba(90, 116, 148, 0.4);
+    border-radius: 10px;
+}
+
+
+
+label{
+    font-weight: bold;
+    color: black;
+   
+    
+}
+
+fieldset{
+    text-align: left;
+}
+
+Form {
+    background: #fff;
+    box-shadow: 0 30px 60px 0 rgba(90, 116, 148, 0.4);
+    border-radius: 10px;
+    max-width: 880px;
+    
+    
+    padding-top: 5px;
+    padding-bottom: 5px;
+    left: 0;
+    right: 0;
+    
+  }
+
+  .validation{
+    font-size: 12;
+    color: red;
+
+}
+  
+  
